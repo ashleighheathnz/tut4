@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="NZ"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\ASHLEI~1\AppData\Local\Temp\surefire10346173922245558827\surefirebooter5210605344599911668.jar C:\Users\Ashleigh Heath\AppData\Local\Temp\surefire10346173922245558827 2022-08-18T09-59-35_686-jvmRun1 surefire11018761068848500131tmp surefire_03442056732723764463tmp"/>
+    <property name="sun.java.command" value="C:\Users\ASHLEI~1\AppData\Local\Temp\surefire6167877035038659634\surefirebooter17292325969405363737.jar C:\Users\Ashleigh Heath\AppData\Local\Temp\surefire6167877035038659634 2022-08-18T10-10-12_609-jvmRun1 surefire9169793435437945805tmp surefire_03868427881418992115tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Ashleigh Heath\OneDrive\Documents\Software Engineering Degree\2022\Semester 2 2022\159251_software\Tutorials\Tut4\tutorial4\target\test-classes;C:\Users\Ashleigh Heath\OneDrive\Documents\Software Engineering Degree\2022\Semester 2 2022\159251_software\Tutorials\Tut4\tutorial4\target\classes;C:\Users\Ashleigh Heath\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\Users\Ashleigh Heath\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\Ashleigh Heath\.m2\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\Users\Ashleigh Heath\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\Ashleigh Heath\.m2\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\Users\Ashleigh Heath\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;C:\Users\Ashleigh Heath\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.0\junit-jupiter-5.9.0.jar;C:\Users\Ashleigh Heath\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.0\junit-jupiter-params-5.9.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\ASHLEI~1\AppData\Local\Temp\surefire10346173922245558827\surefirebooter5210605344599911668.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ASHLEI~1\AppData\Local\Temp\surefire6167877035038659634\surefirebooter17292325969405363737.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="18.0.2+9-61"/>
@@ -56,5 +56,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="62.0"/>
   </properties>
-  <testcase name="testAddition" classname="org.example.CalcTest" time="0.006"/>
+  <testcase name="testAddition" classname="org.example.CalcTest" time="0.005"/>
 </testsuite>
